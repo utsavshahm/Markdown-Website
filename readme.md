@@ -1,6 +1,7 @@
 <div style="background-color:blue; color:white; font-size:150px"> Utsav Shah </div>
 
-> ![I, Me, Myself](https://github.com/utsavshahm/utsavshahm.github.io/blob/main/myself1.jpg) 
+> ![I, Me, Myself](https://github.com/utsavshahm/utsavshahm.github.io/blob/main/myself1.jpg)
+> <img src = "https://github.com/utsavshahm/utsavshahm.github.io/raw/main/myself1.jpg">
 >
 > I'm **Utsav Shah**, first year undergrad pursuing CSE at **IIT Goa**. I've completed my previous study from a town named **Kodinar** in Gujarat.
 > I'm a beginner to everything whether it is *HTML/CSS* or *C++*.
