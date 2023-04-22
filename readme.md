@@ -1,4 +1,4 @@
-<div style="background-color: "blue"; color: "White"><h1> Utsav Shah</h1></div>
+<div style="background-color:blue"><h1> Utsav Shah</h1></div>
 
 > ![I, Me, Myself](https://github.com/utsavshahm/utsavshahm.github.io/blob/main/myself1.jpg) 
 >
