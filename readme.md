@@ -1,13 +1,6 @@
 # Utsav Shah
 
-<div style="color: White; background-color: Blue">
-    <nav>
-    <span>Home</span>
-    <span>About</span>
-    <span>Qualifications</span>
-    <span>Contact</span>
-    </nav>
-</div>
+![I, Me, Myself]()
 
 Welcome to my website created by Markdown! 
 
@@ -18,4 +11,18 @@ You can view the source code of this website at my [Github](https://utsavshahm.g
 Enjoy exploring the website!
 
 > Eat, Sleep, Code, Repeat!
+
+## About
+
+I'm **Utsav Shah**, first year undergrad pursuing CSE at **IIT Goa**. I've completed my previous study from a town named **Kodinar** in Gujarat.
+I'm a beginner to everything whether it is *HTML/CSS* or *C++*. 
+
+Following are some things that interest me well:
+
+- Web Developement and App Developement
+- Competitive Programming
+- Content Writing
+
+
+
 
