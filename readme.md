@@ -40,7 +40,9 @@ Following are some things that interest me well:
 
 **Email** : <shah.utsavm@gmail.com> <br>
 **Github** : [@utsavshahm](https://utsavshahm.github.io/ "Shah Utsav")<br>
-**LinkedIn** : [Shah Utsav](https://www.linkedin.com/in/shahutsavm/ "Shah Utsav")
+![L](https://github.com/utsavshahm/utsavshahm.github.io/blob/main/Danleech-Simple-Linkedin.ico) **LinkedIn** : [Shah Utsav](https://www.linkedin.com/in/shahutsavm/ "Shah Utsav")
+
+
 
 
 
