@@ -1,4 +1,4 @@
-<div style="background-color:blue; color:white; font-size:150px"> Utsav Shah </div>
+<div style="background-color:blue; color:white; font-size:75px"> Utsav Shah </div>
 
 > ![I, Me, Myself](https://github.com/utsavshahm/utsavshahm.github.io/raw/main/myself1.jpg)
 
@@ -41,7 +41,8 @@ Following are some things that interest me well:
 
 **Email** : <shah.utsavm@gmail.com> <br>
 **Github** : [@utsavshahm](https://utsavshahm.github.io/ "Shah Utsav")<br>
-![L](https://github.com/utsavshahm/utsavshahm.github.io/blob/main/Danleech-Simple-Linkedin.ico) **LinkedIn** : [Shah Utsav](https://www.linkedin.com/in/shahutsavm/ "Shah Utsav")
+**LinkedIn** : [Shah Utsav](https://www.linkedin.com/in/shahutsavm/ "Shah Utsav")
+
 
 
 
