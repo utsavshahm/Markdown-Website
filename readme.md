@@ -36,7 +36,9 @@ Following are some things that interest me well:
 | 2      | Class 12 | Navkar School | 83% |
 | 3       | JEE Main | Allen | Rank 2827 |
 | 4       | JEE Advanced | Allen | Rank 3384 |
-| 5      | Semester 1 | IIT Goa | SPI = 7.82 |
+| 5      | Semester 1 | IIT Goa | SPI = 7.82 | 
+
+!["laugh"](https://i.pinimg.com/originals/43/b6/a6/43b6a60b7c62cefc95d6e11465e49dde.gif)
 
 ## Contact
 
