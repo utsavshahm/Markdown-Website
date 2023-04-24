@@ -1,3 +1,4 @@
+!["Minion"](https://media2.giphy.com/media/dDFPsSRtmyW0SYQSGS/giphy.gif)
 <div style="background-color:blue; color:white; font-size:75px"> Utsav Shah </div>
 
 > ![I, Me, Myself](https://github.com/utsavshahm/utsavshahm.github.io/raw/main/myself1.jpg)
