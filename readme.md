@@ -30,7 +30,7 @@ Enjoy exploring the website!
 
 ## Courses@IIT Goa
 Following are courses at IIT Goa for First year in Spring Semester:
-- **CS102**, Software Tools, *Clint P George*
+- **CS102**, [Software Tools](https://clintpgeorge.github.io/cs-102/spring-2023/), *Clint P George*
 - **MTH 1021** ,Basic Linear Algebra , *Kalpesh Haria*
 - **MTH 1022** ,Ordinary Differential Equations, *Saumya Bajpai*
 - **PH 102** ,Electricity and Magnetism, *Vaibhav Wasnik*
