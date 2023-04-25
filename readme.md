@@ -1,12 +1,4 @@
-!["Minion"](https://media2.giphy.com/media/dDFPsSRtmyW0SYQSGS/giphy.gif)
-<div style="background-color:blue; color:white; font-size:75px"> Utsav Shah </div>
-
-> ![I, Me, Myself](https://github.com/utsavshahm/utsavshahm.github.io/raw/main/myself1.jpg)
-
->
-> I'm **Utsav Shah**, first year undergrad pursuing CSE at **IIT Goa**. I've completed my previous study from a town named **Kodinar** in Gujarat.
-> I'm a beginner to everything whether it is *HTML/CSS* or *C++*.
-
+# Utsav Shah
 
 Welcome to my website created by Markdown! 
 
@@ -19,26 +11,45 @@ Enjoy exploring the website!
 > Eat, Sleep, Code, Repeat!
 
 ## About
+> ![I, Me, Myself](https://github.com/utsavshahm/utsavshahm.github.io/raw/main/myself1.jpg)
 
-I'm Utsav Shah, first year undergrad pursuing CSE at IIT Goa. I've completed my previous study from a town named Kodinar in Gujarat. I'm a beginner to everything whether it is HTML/CSS or C++.
+>
+> I'm **Utsav Shah**, first year undergrad pursuing CSE at **IIT Goa**. I've completed my previous study from a town named **Kodinar** in Gujarat.
+> I'm a beginner to everything whether it is *HTML/CSS* or *C++*.
+
+
+## Education
+
+| Acad Year | Class | School | Grade |
+| ------ | ----- | ------ | ----- |
+| 2020      | Class 10 | SKM School | 92% |
+| 2022      | Class 12 | Navkar School | 83% |
+| 2022       | JEE Main | Allen | Rank 2827 |
+| 2022       | JEE Advanced | Allen | Rank 3384 |
+| 2023      | Semester 1 | IIT Goa | SPI = 7.82 | 
+
+## Courses@IIT Goa
+Following are courses at IIT Goa for First year in Spring Semester:
+- **CS102**, Software Tools, *Clint P George*
+- **MTH 1021** ,Basic Linear Algebra , *Kalpesh Haria*
+- **MTH 1022** ,Ordinary Differential Equations, *Saumya Bajpai*
+- **PH 102** ,Electricity and Magnetism, *Vaibhav Wasnik*
+- **PH 103** ,Physics Lab 
+- **EE 101** ,Introduction to Electrical and Electronics Engineering, *Apeksha Madhukar*
+- **BIO 101** ,Introductory Biology , *Nipa Ma'am*
+- **ME 101** ,Introduction to Manufacturing
+- **ME 102** ,Engineering Graphics and Introduction to Computer-Aided-Drawing
+- **NO 102** ,National Sports Organization, *Santosh Kumar*
+
+## Hobbies and Interests
 
 Following are some things that interest me well:
 
-- Web Developement and App Developement
-- Competitive Programming
-- Content Writing
-
-## Qualifications as of now: 
-
-| Sr. No | Class | School | Grade |
-| ------ | ----- | ------ | ----- |
-| 1      | Class 10 | SKM School | 92% |
-| 2      | Class 12 | Navkar School | 83% |
-| 3       | JEE Main | Allen | Rank 2827 |
-| 4       | JEE Advanced | Allen | Rank 3384 |
-| 5      | Semester 1 | IIT Goa | SPI = 7.82 | 
-
-!["laugh"](https://i.pinimg.com/originals/43/b6/a6/43b6a60b7c62cefc95d6e11465e49dde.gif)
+1. Web Developement and App Developement
+1. Competitive Programming
+1. Content Writing
+1. Reading Books
+1. Music Listening
 
 ## Contact
 
